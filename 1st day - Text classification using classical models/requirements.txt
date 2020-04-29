@@ -1,0 +1,6 @@
+scikit-image==0.16.2
+scikit-learn==0.22.1
+matplotlib==3.1.2
+nltk==3.4.5
+pandas==0.25.3
+pandas-summary==0.0.7
