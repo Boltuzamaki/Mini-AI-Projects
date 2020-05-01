@@ -1,0 +1,12 @@
+Keras==2.2.4
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
+keras-resnet==0.2.0
+keras-retinanet==0.5.1
+numpy==1.18.1
+pandas==0.25.3
+pandas-summary==0.0.7
+matplotlib==3.1.2
+tensorboard==1.12.2
+tensorflow-estimator==1.13.0
+tensorflow-gpu==1.12.0
