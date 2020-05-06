@@ -6,7 +6,7 @@ import time
 sleep_time = 5
 margin_x = 300
 margin_y = 300
-image_loc = "5.jpg"
+image_loc = "7.jpg"
     
 def draw_image(image):
     im = cv2.imread(image)
