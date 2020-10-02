@@ -4,7 +4,7 @@
 [Youtube video Link](https://www.youtube.com/watch?v=Gen7oShB6rw&t=30s)
 
 ### Background Subtraction
-<img src="https://github.com/Boltuzamaki/30-Days-AI-Projects/blob/master/7th%20day%20-%20Opecn%20CV%20mini%20projects/images/Screenshot%20(6581).png"  width="500" height="450" />
+<img src="https://github.com/Boltuzamaki/30-Days-AI-Projects/blob/master/7th%20day%20-%20Opecn%20CV%20mini%20projects/images/Screenshot%20(6581).png"  width="600" height="400" />
 
 ### Image Blurring
 <img src="https://github.com/Boltuzamaki/30-Days-AI-Projects/blob/master/7th%20day%20-%20Opecn%20CV%20mini%20projects/images/Screenshot%20(6582).png"  width="500" height="450" />
