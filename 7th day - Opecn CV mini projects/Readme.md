@@ -15,10 +15,10 @@
 ### Edge detection Laplacian 
 <img src="https://github.com/Boltuzamaki/30-Days-AI-Projects/blob/master/7th%20day%20-%20Opecn%20CV%20mini%20projects/images/Screenshot%20(6585).png"  width="500" height="400" />
 
-### Objet Tracking
+### Object Tracking
 <img src="https://github.com/Boltuzamaki/30-Days-AI-Projects/blob/master/7th%20day%20-%20Opecn%20CV%20mini%20projects/images/Screenshot%20(6586).png"  width="500" height="400" />
 
-### Thresh holding
+### Thresholding
 <img src="https://github.com/Boltuzamaki/30-Days-AI-Projects/blob/master/7th%20day%20-%20Opecn%20CV%20mini%20projects/images/Screenshot%20(6588).png"  width="500" height="400" />
 
 
