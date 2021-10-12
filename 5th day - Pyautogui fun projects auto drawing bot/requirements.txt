@@ -1,4 +1,4 @@
-opencv-contrib-python==3.3.0.10
+opencv-contrib-python==3.3.1.11
 opencv-python==3.3.0.10
 opencv-python-headless==4.1.2.30
 PyAutoGUI==0.9.50
