@@ -1,6 +1,6 @@
 tensorflow-datasets==3.1.0
 tensorflow-estimator==1.13.0
-tensorflow-gpu==2.5.1
+tensorflow-gpu==2.5.3
 tensorflow-metadata==0.21.2
 Keras==2.2.4
 Keras-Applications==1.0.8
