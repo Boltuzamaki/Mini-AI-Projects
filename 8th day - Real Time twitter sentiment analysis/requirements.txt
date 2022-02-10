@@ -1,4 +1,4 @@
-tensorflow==2.5.1
+tensorflow==2.5.3
 tensorflow-datasets==2.1.0
 tensorflow-estimator==2.1.0
 tensorflow-gpu==2.5.1
